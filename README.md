@@ -40,7 +40,7 @@ Separate comment about these fixes. It was unexpected that the mentor also share
 It's time to speed up  
 ## JS Basics  
 [Screenshots](https://github.com/IhorOzerov/kottans-frontend/tree/main/task_js_basics)  
-<p>It started off briskly and nicely because I had a basic javascript and a couple of ES6 lessons a few months ago, but I decided to replay it again to fix it. the next couple of blocks were also very kind to me, although sometimes it was necessary to use hints.</p>
+<p>It started off briskly and nicely because I had a basic javascript and a couple of ES6 lessons a few months ago, but I decided to replay it again to fix it. The next couple of blocks were also very kind to me, although sometimes it was necessary to use hints.</p>
 <p>But algorithms have already changed the rules of the game. And when I read in the list of tasks that there is a higher level of algorithms, I didn’t feel well.  </p>
 <p>As a result, the algorithms were passed almost completely with hints, rare cases of independent solution of the problem were happiness.  </p>
 <p>But I think that is the case with many students... is it true, huh?!</p> 
