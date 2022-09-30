@@ -40,7 +40,8 @@
 This task turned out to be more difficult than it seemed. I thought that my experience was enough to quickly complete it, and therefore, when two days later I found myself in a dead end and almost nothing worked, I began to burn inside. After I pulled myself together, this feeling of stupidity passed and the task had to be solved gradually and thoughtfully. And of course, it seemed to me that the project was ready when I sent it for review, but it was ready:
 1) after 3 days of my stupidity and silence that he is "ready"
 2) and another 3 days of corrections of the "ready" project about the mentor's comments.  
-Separate comment about these fixes. It was unexpected that the mentor also shares articles and tries to suggest something, and not just says what needs to be done.  
+Separate comment about these fixes. It was unexpected that the mentor also shares articles and tries to suggest something, and not just says what needs to be done.
+
 It's time to speed up  
 
 ## JS Basics  
